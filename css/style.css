@@ -95,6 +95,9 @@ p{
     padding: 100px 0px;
     
 }
+.image-fluid.new{
+    transform: scale(0.8);
+}
 
 
 /*=====[Banner]=====*/

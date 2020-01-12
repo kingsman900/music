@@ -112,6 +112,9 @@ p{
 .btn2{
     float: left;
 }
+.image-fluid.hed{
+    transform: scale(1.07)
+}
 /*=====[Feature]=====*/
 .feature{
     text-align: left;
